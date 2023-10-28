@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7366696032",
+    "project_id": "smartmarket-7761a",
+    "storage_bucket": "smartmarket-7761a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7366696032:android:fbfe006f05568dd64f3705",
+        "android_client_info": {
+          "package_name": "com.example.smart_market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjkPQcNzNavzavS2Xjf2YA5QHUdwDL7QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
